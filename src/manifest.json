@@ -1,0 +1,13 @@
+{
+  "name": "Zero",
+  "description": "Boilerplate for Zeplin extension projects based on Webpack",
+  "version": "0.1.0",
+  "moduleURL": "./index.js",
+  "author": {
+    "name": "Baybara Pavel",
+    "email": "baybara.pavel@gmail.com",
+    "url": "http://github.com/baybara-pavel"
+  },
+  "repository": "http://github.com/baybara-pavel/zero",
+  "options": []
+}
