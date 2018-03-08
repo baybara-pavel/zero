@@ -8,6 +8,8 @@
 </p>
 Start your Zeplin extension from Zero with Webpack.
 
+If you want more power features without build process configuration – use official solution [zem](https://github.com/zeplin/zem)
+
 ## Zero includes
 
 * Base project file structure
